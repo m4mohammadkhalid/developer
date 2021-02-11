@@ -10,7 +10,7 @@ export default function Home() {
         <title>KHALID</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>KHALID DEVELOPER CODE SPARROW</h1>
+      <h1>KHALID CODE SPARROW</h1>
     </div>
   )
 }
