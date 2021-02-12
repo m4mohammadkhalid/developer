@@ -33,11 +33,10 @@ const Header = () => {
   <div className="full-menu">
     <div className="fullmenu-content">
       <ul className="page-menu">
-        <li><a className="active" href="index.html">Home</a></li>
+        <li><Link href="/"><a className="active">Home</a></Link></li>
         <li><Link href="/about"><a>About</a></Link></li>
         <li><a href="blogs.html">Blog Posts</a></li>
         <li><a href="contact.html">Contact</a></li>
-        <li><a href="https://themeforest.net/item/amokachi-creative-portfolio-html-template/22605799">Buy Now</a></li>
         <li className="social">
           <a href="#"><i className="fab fa-twitter" /></a>
           <a href="#"><i className="fab fa-instagram" /></a>
