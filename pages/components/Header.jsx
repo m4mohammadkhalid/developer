@@ -11,13 +11,13 @@ const Header = () => {
         <title>KHALID</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-  <div className="preloader">
+  {/* <div className="preloader">
     <div className="outer">
       <div className="inner">
         <div className="percentage" />                          
       </div>
     </div>
-  </div>
+  </div> */}
   <header>
     <div className="logo float-left">
     <Link href="/">
