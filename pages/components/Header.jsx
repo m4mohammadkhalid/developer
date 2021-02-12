@@ -35,8 +35,8 @@ const Header = () => {
       <ul className="page-menu">
         <li><Link href="/"><a className="active">Home</a></Link></li>
         <li><Link href="/about"><a>About</a></Link></li>
-        <li><a href="blogs.html">Blog Posts</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><Link href="/about"><a>Blog</a></Link></li>
+        <li><Link href="/about"><a>Contact</a></Link></li>
         <li className="social">
           <a href="#"><i className="fab fa-twitter" /></a>
           <a href="#"><i className="fab fa-instagram" /></a>
