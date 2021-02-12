@@ -1,4 +1,5 @@
 import React from 'react'
+import Head from 'next/head'
 import Link from 'next/link'
 
 const Header = () => {
@@ -6,14 +7,17 @@ const Header = () => {
         
         <>
 
-
-  {/* <div className="preloader">
+      <Head>
+        <title>KHALID</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+  <div className="preloader">
     <div className="outer">
       <div className="inner">
         <div className="percentage" />                          
       </div>
     </div>
-  </div> */}
+  </div>
   <header>
     <div className="logo float-left">
     <Link href="/">
