@@ -12,8 +12,8 @@ export default function Home() {
   <section className="main">
     <div className="main-content">
       <span className="hello">FREELANCE DIGITAL DESIGNER</span>
-      <h1 className="main-title">Hi, I’m Mohammad Khalid based in India<br />
-        Web Application Developers &amp; Android Developers.</h1>
+      <h1 className="main-title">Hi, I’m Mohammad Khalid <br />
+        Web Apps Developer &amp; Android Developer.</h1>
       <div className="social">
         <a href="#"><i className="fab fa-twitter" /></a>
         <a href="#"><i className="fab fa-instagram" /></a>

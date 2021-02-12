@@ -27,7 +27,7 @@ const Header = () => {
     <div className="fullmenu-content">
       <ul className="page-menu">
         <li><a className="active" href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
+        <li><a href="about">About</a></li>
         <li><a href="blogs.html">Blog Posts</a></li>
         <li><a href="contact.html">Contact</a></li>
         <li><a href="https://themeforest.net/item/amokachi-creative-portfolio-html-template/22605799">Buy Now</a></li>
