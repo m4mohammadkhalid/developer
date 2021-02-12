@@ -33,15 +33,15 @@ const Header = () => {
   <div className="full-menu">
     <div className="fullmenu-content">
       <ul className="page-menu">
-        <li><Link href="/"><a className="active">Home</a></Link></li>
+      <Link href="/"> <li><a className="active">Home</a></li></Link>
         <li><Link href="/about"><a>About</a></Link></li>
         <li><Link href="/about"><a>Blog</a></Link></li>
         <li><Link href="/about"><a>Contact</a></Link></li>
         <li className="social">
-          <a href="#"><i className="fab fa-twitter" /></a>
-          <a href="#"><i className="fab fa-instagram" /></a>
-          <a href="#"><i className="fab fa-dribbble" /></a>
-          <a href="#"><i className="fab fa-telegram-plane" /></a>
+         <Link href="/"> <a><i className="fab fa-twitter" /></a></Link>
+         <Link href="/"> <a><i className="fab fa-instagram" /></a></Link>
+         <Link href="/"> <a><i className="fab fa-dribbble" /></a></Link>
+         <Link href="/"> <a><i className="fab fa-telegram-plane" /></a></Link>
         </li>
       </ul>
     </div>
