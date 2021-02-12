@@ -11,9 +11,9 @@ export default function Home() {
       <div className="wrapper">
   <section className="main">
     <div className="main-content">
-      <span className="hello">Hello Everyone!</span>
-      <h1 className="main-title">We're Amokachi, a team of<br />
-        Interactive Developers &amp; UX Designers.</h1>
+      <span className="hello">FREELANCE DIGITAL DESIGNER</span>
+      <h1 className="main-title">Hi, I’m Mohammad Khalid based in India<br />
+        Web Application Developers &amp; Android Developers.</h1>
       <div className="social">
         <a href="#"><i className="fab fa-twitter" /></a>
         <a href="#"><i className="fab fa-instagram" /></a>
